@@ -1,0 +1,21 @@
+$ apt update
+
+$ Apt upgrade
+
+$ apt install git
+
+$ pkg install php
+
+$ pkg install openssh
+
+$ pkg install curl
+
+$ pkg install git
+
+$ git clone https://github.com/htr-tech/zphisher
+
+$ cd zphisher
+
+$ chmod +x zphisher.sh
+
+$ bash zphisher.sh
